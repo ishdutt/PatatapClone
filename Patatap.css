@@ -1,6 +1,6 @@
 #myCanvas{
 	width: 100%;
-	height: 650px;
+	height: 630px;
 	background-color: black;
 	margin-bottom: 0;
 	margin: 0;
@@ -16,5 +16,6 @@ p{
 	text-align: center;
 	color: white;
 	margin: 0;
+	font-size: 40px;
 	font-family: 'Shadows Into Light', cursive;
 }
