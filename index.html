@@ -175,6 +175,12 @@
 		}
 		
 		var circles=[];
+		function openKeyboard(){
+    document.getElementById("canvas").addEventListener('click', function(){
+        document.getElementById("keyboardHack").focus();
+        alert("click!");
+    });
+
 		function onKeyDown(event) 
 		{
 				
